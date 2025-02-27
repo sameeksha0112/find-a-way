@@ -1,0 +1,54 @@
+/*----------------------------------------- custom color start------------------------------------------  */
+.tomato {
+    color: #F16C4B;
+}
+
+.LightSkyBlue {
+    background: #48C2C9;
+}
+
+.black {
+    background: #373737;
+}
+
+.cardColor {
+    background-color: azure;
+}
+
+.footerColor {
+    background: #1D2B36;
+}
+
+.logoColor {
+    color: #1f95c4;
+}
+
+.emergencyPlanHover:hover {
+    transform: scale(.9);
+}
+
+.card-style {
+    width: 5rem;
+    height: 5rem;
+}
+
+/*------------------- Service card button style--------------------------------------------------------  */
+.service-btn {
+    background: #F16C4B;
+    margin: .5rem;
+    padding: .3rem 2rem .3rem 2rem;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    border-radius: .4rem;
+}
+
+.button {
+    background: #F16C4B;
+    color: white;
+    text-decoration: none;
+    padding: .4rem .7rem .3rem .7rem;
+    border-radius: .5rem;
+    margin-left: .5rem;
+
+}
