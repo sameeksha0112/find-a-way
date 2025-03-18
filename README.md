@@ -1,6 +1,6 @@
-<h1>Emergency Information Share in Dhaka City</h1>
+<h1>Emergency Information Share in Hyderabad City</h1>
 
-<p>The Emergency Service In Dhaka City web-based totally utility goals to provide a comprehensive platform for getting access to critical emergency services in Dhaka metropolis. The application specializes in supporting citizens in want via supplying short get entry to hospitals, blood banks, doctors, police offerings, hearth services, and power-related assistance. The improvement system follows Agile methodology, permitting iterative improvement, frequent collaboration with stakeholders, and version to converting necessities. HTML, CSS, Bootstrap 5, React.js, MongoDB, and Node.js are utilized because the middle technology for implementing the application's front-end and back-end</p>
+<p>The Emergency Service In Hyderabad City web-based totally utility goals to provide a comprehensive platform for getting access to critical emergency services in Hyderabad metropolis. The application specializes in supporting citizens in want via supplying short get entry to hospitals, blood banks, doctors, police offerings, hearth services, and power-related assistance. The improvement system follows Agile methodology, permitting iterative improvement, frequent collaboration with stakeholders, and version to converting necessities. HTML, CSS, Bootstrap 5, React.js, MongoDB, and Node.js are utilized because the middle technology for implementing the application's front-end and back-end</p>
 
 <h2>Home Page</h2>
 

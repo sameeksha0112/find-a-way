@@ -36,7 +36,7 @@ function Navigation() {
             <img
               alt="Logo"
               src={logo}
-              srcSet={`${logo} 300w, ${logo} 768w, ${logo} 1280w`}
+              srcSet={`${logo} 100w, ${logo} 768w, ${logo} 1180w`}
             />
           </div>
           

@@ -1,7 +1,7 @@
 import React from "react";
 import Navigation from "../../NavigationBar/Navigation";
 import Footer from "../../Footer/Footer";
-import image from "../../../Assets/Images/Admin-Profile/helal.jpg";
+import image from "../../../Assets/Images/Admin-Profile/adminLogin.png";
 import { Link } from "react-router-dom";
 
 const AdminProfile = () => {
@@ -23,10 +23,10 @@ const AdminProfile = () => {
             srcset=""
           />
 
-          <h3> Name: MD.Helal Uddin</h3>
-          <p>Email: mdhelaluddin2424@gmail.com</p>
+          <h3> Name: SAM</h3>
+          <p>Email: FindMyWay@gmail.com</p>
           <p>Phone: 01402948512</p>
-          <p>Sex: Male</p>
+          <p>Sex: Female</p>
           <div>
             <Link as={Link} to={"/admin"} className="btn btn-success m-3 fw-bold">Back</Link>
             

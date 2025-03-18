@@ -10,9 +10,9 @@ const Footer = () => {
                         <address>
                             <h5 className="fw-bold text-info">Contract Info</h5>
 
-                            <p className=''>Address: 53/51 ,Norda, Dhaka-1212 </p>
-                            <p>Phone: +880-01402948512</p>
-                            <p>Email: mdhelaluddin2424@gmial.com</p>
+                            <p className=''>Address: 53/51 ,Telangana, Hyderabad-500100 </p>
+                            <p>Phone: +91-1234567890</p>
+                            <p>Email: FindMyWay@gmail.com</p>
 
 
                         </address>
@@ -24,7 +24,7 @@ const Footer = () => {
                             
                             We support 24/7 hours for any query and
                             share information. We provide only emergency
-                            service in Dhaka city.
+                            service in Hyderabad city.
 
                         </p>
                     </div>
@@ -48,7 +48,7 @@ const Footer = () => {
                     <hr className="text-white" />
                     <div className="col">
                         <p className="text-secondary text-center  mt-2">Copyright &copy;
-                            All Right Reserved to Emergency Service In Dhaka City.
+                            All Right Reserved to Emergency Service In Hyderabad City.
                         </p>
                     </div>
                 </div>
