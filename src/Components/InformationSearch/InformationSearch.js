@@ -62,14 +62,14 @@ const InformationSearch = () => {
               onChange={(e) => setQueryData(e)}
             >
               <option selected>Select Area</option>
-              <option value="Mohammadpur">Mohammadpur</option>
-              <option value="Dhanmondi">Dhanmondi</option>
-              <option value="Mirpur">Mirpur </option>
-              <option value="Uttara">Uttara </option>
-              <option value="Gulshan">Gulshan </option>
-              <option value="Motijeel">Motijeel </option>
-              <option value="Kamrangirchar">Kamrangirchar </option>
-              <option value="Khilgoan">Khilgoan </option>
+              <option value="Kompally">Kompally</option>
+              <option value="Secunderabad">Secunderabad</option>
+              <option value="Miyapur">Miyapur </option>
+              <option value="Jubilee Hills">Jubilee Hills </option>
+              <option value="Hitech City">Hitech City </option>
+              <option value="Financial District">Financial District </option>
+              <option value="Lingampally">Lingampally </option>
+              <option value="Banjara Hills">Banjara Hills </option>
             </select>
           </div>
           <div className="col-lg-2 col-md-4 col-sm-12 text-center">
